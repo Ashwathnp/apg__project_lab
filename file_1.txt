@@ -1,0 +1,6 @@
+
+Excited to learn git and This is the first git file.
+
+Testing Git.
+
+First Lab exercise.
